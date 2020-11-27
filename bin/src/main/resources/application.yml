@@ -1,0 +1,18 @@
+server:
+   port: 8080
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2
+  datasource:
+    url: jdbc:h2:file:~/test
+    username: sa
+    password:
+    driverClassName: org.h2.Driver
+  profiles:
+    active: dev
+  
+jwt:
+  secret: afranioehtoba
+  expiration: 600000
