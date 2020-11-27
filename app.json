@@ -1,0 +1,13 @@
+{
+    "name": "projeto-estoque-facil-frontend",
+    "description": "Projeto em AngularJS para a disciplina de SI1 - 2017.2",
+    "keywords": [
+        "AngularJS",
+        "angular",
+        "node",
+        "express"
+    ],
+    "repository": "https://github.com/ruanvictorreis/estoque-facil-backend/",
+    "success_url": "/",
+    "addons": []
+}

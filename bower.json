@@ -1,0 +1,32 @@
+{
+  "name": "projeto-estoque-facil-frontend",
+  "description": "Projeto em AngularJS para a disciplina de SI1 - 2017.2",
+  "license": "MIT",
+  "keywords": [
+    "AngularJS",
+    "angular"
+  ],
+  "authors": [
+    "Pablo Victor",
+    "Rhuan Reis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanvictorreis/estoque-facil-backend/"
+  },
+  "ignore": [],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-mocks": "^1.5.7",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.6",
+    "jquery-ui": "^1.11.4",
+    "components-font-awesome": "^4.7.0",
+    "angular-route": "^1.6.4",
+    "angular-messages": "^1.6.4",
+    "angular-toastr": "^2.1.1",
+    "angular-bootstrap": "^2.5.0"
+  },
+  "private": false
+}
